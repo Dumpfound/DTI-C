@@ -1,0 +1,28 @@
+
+# Please enter the commit message for your changes. Lines starting
+# with '#' will be ignored, and an empty message aborts the commit.
+#
+# On branch main
+# Your branch is up to date with 'origin/main'.
+#
+# Changes to be committed:
+#	new file:   my04.c
+#	new file:   my05.c
+#
+# Changes not staged for commit:
+#	modified:   my03.exe
+#	modified:   my04.c
+#	modified:   my05.c
+#
+# Untracked files:
+#	my04.exe
+#	my05.exe
+#	my06.c
+#	my06.exe
+#	my07.c
+#	my07.exe
+#	my08.c
+#	my08.exe
+#	my09.c
+#	my09.exe
+#
